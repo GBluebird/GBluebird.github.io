@@ -1,0 +1,65 @@
+body{
+    background-color: rgb(27, 27, 66);
+    color: white;
+}
+
+h1{
+    color: azure;
+    background-color: rgb(32, 7, 90);
+    width: 100%;
+    height: 50px;
+    text-align: center;
+    font-size: 48px;
+    padding: 20x;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    border: 2px solid rgb(18, 60, 245);
+    border-radius: 10px;
+}
+h2{
+    text-align: center;
+    font-size: 48px;
+    padding-bottom: 0px;
+    margin-bottom: 0 px;
+}
+.school{
+    padding-top: 10px;
+    margin-top: 0px;
+    font-size: 24px;
+    text-align: center;
+}
+
+.container{
+    padding: 50px;
+    display: flex;
+    justify-content: space-between;
+}
+
+#right{
+    width: 700px;
+    height: 500px;
+    padding-left: 50px;
+    padding-top: 0px;
+    margin: 0px;
+    font-size: 24px;
+    background-color: rgb(109, 90, 218);
+    border-radius: 25px;
+}
+
+.myinfo{
+    text-align: center;
+    font-size: 36px;
+}
+.info{
+    margin: 5px;
+}
+button{
+    margin-top: 30px;
+   margin-left: 270px;
+   background-color: bisque;
+   width: 150px;
+   height: 50px;
+   font-size: 24px;
+   border-radius: 30px;
+
+}
